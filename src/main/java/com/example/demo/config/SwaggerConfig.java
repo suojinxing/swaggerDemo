@@ -12,7 +12,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
  * ClassName: SwaggerConfig
- * Package: com.example.demojpa.config
+ * Package: com.example.demo.config
  * Desc:
  * Date: 2019/11/11 3:10 下午
  * Author: suojinxing
